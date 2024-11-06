@@ -2,7 +2,7 @@
 
 I'm a full-stack developer specializing in **AI-driven financial tools** and **scalable web applications**. My primary languages and frameworks include **Golang**, **Svelte**, **Python**, and **Dart/Flutter**.
 
-### 🛠 Tech Stack
+### 🛠 I work around...
 
 - **Languages**: Golang, Python, Svelte, Dart, Flutter, VB.NET, C#, Assembly
 - **Frameworks/Libraries**: React, Vue, Flask, FastAPI, TensorFlow, Docker, PostgreSQL, Redis
